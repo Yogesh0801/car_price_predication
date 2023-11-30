@@ -1,0 +1,6 @@
+in anaconda prompt
+pip install pandas
+pip install numpy
+pip install xgboost==1.0.2
+pip install streamlit
+streamlit run car_price_predictor.py
